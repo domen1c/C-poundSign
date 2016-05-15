@@ -1,2 +1,2 @@
-# C-poundSign
+# C-sharp
 Intro programming class
